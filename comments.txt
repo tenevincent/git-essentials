@@ -1,1 +1,5 @@
 Comments added!
+
+This new content was added to the repository!
+
+Another content should be added!
